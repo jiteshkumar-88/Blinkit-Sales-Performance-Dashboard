@@ -1,0 +1,251 @@
+Order_ID,Order_Date,City,Category,Product,Quantity,Unit_Price,Discount_%,Payment_Method,Customer_Rating,Delivery_Days,Returned,Sales_Amount
+BLI-10000,2025-11-01,Pune,Home,Product 1,4,2789,15.0,Net Banking,5.0,3.0,No,9482.6
+BLI-10001,2025-02-22,Bengaluru,Fashion,Product 2,5,2267,20.0,COD,4.0,6.0,No,9068.0
+BLI-10002,2025-12-09,Bengaluru,Beauty,Product 3,7,4685,10.0,Net Banking,3.0,,No,29515.5
+BLI-10003,2025-02-01,Kolkata,Electronics,Product 4,3,2130,20.0,Card,4.0,1.0,No,5112.0
+BLI-10004,2025-11-23,Jaipur,Grocery,Product 5,4,1720,20.0,UPI,,6.0,No,5504.0
+BLI-10005,2025-01-22,Mumbai,Fashion,Product 6,4,3193,0.0,Card,5.0,5.0,No,12772.0
+BLI-10006,2025-04-27,Chennai,Grocery,Product 7,6,1994,20.0,Net Banking,4.0,,No,9571.2
+BLI-10007,2025-04-30,Hyderabad,Grocery,Product 8,1,4951,20.0,UPI,4.0,5.0,No,3960.8
+BLI-10008,2025-03-10,Pune,Fashion,Product 9,4,3319,0.0,UPI,5.0,6.0,No,13276.0
+BLI-10009,2025-08-05,Delhi,Electronics,Product 10,6,4280,15.0,Net Banking,,5.0,No,21828.0
+BLI-10010,2025-12-08,Mumbai,Beauty,Product 11,3,1657,20.0,,3.0,4.0,No,3976.8
+BLI-10011,2025-07-24,Kolkata,Beauty,Product 12,3,3298,,Card,4.0,3.0,No,9894.0
+BLI-10012,2025-05-28,Hyderabad,Home,Product 13,3,2028,10.0,Card,4.0,2.0,No,5475.6
+BLI-10013,2025-09-06,Pune,Beauty,Product 14,4,2987,0.0,UPI,4.0,,No,11948.0
+BLI-10014,2025-07-09,Delhi,Fashion,Product 15,2,3535,10.0,UPI,3.0,2.0,No,6363.0
+BLI-10015,2025-10-19,Jaipur,Grocery,Product 16,3,2261,20.0,UPI,4.0,5.0,No,5426.4
+BLI-10016,2025-03-16,Hyderabad,Beauty,Product 17,6,4533,0.0,UPI,4.0,2.0,Yes,27198.0
+BLI-10017,2025-11-16,Jaipur,Grocery,Product 18,5,4119,0.0,Net Banking,5.0,6.0,No,20595.0
+BLI-10018,2025-05-25,Kolkata,Grocery,Product 19,6,2677,20.0,Net Banking,4.0,5.0,No,12849.6
+BLI-10019,2025-11-11,Jaipur,Fashion,Product 20,3,4257,,COD,4.0,6.0,No,12771.0
+BLI-10020,2025-09-16,Mumbai,Grocery,Product 21,4,3545,5.0,COD,5.0,6.0,No,13471.0
+BLI-10021,2025-07-15,Mumbai,Grocery,Product 22,4,2969,20.0,Net Banking,,4.0,Yes,9500.8
+BLI-10022,2025-10-31,Hyderabad,Home,Product 23,4,2506,0.0,UPI,5.0,5.0,No,10024.0
+BLI-10023,2025-09-14,Mumbai,Grocery,Product 24,4,4765,15.0,Card,3.0,3.0,Yes,16201.0
+BLI-10024,2025-03-01,Hyderabad,Electronics,Product 25,5,1645,5.0,Card,5.0,,No,7813.75
+BLI-10025,2025-10-25,Hyderabad,Fashion,Product 26,3,611,20.0,,,1.0,Yes,1466.4
+BLI-10026,2025-11-16,Kolkata,Electronics,Product 27,2,1370,15.0,Card,3.0,3.0,No,2329.0
+BLI-10027,2025-07-30,,Grocery,Product 28,1,3729,20.0,UPI,,4.0,No,2983.2
+BLI-10028,2025-04-13,Bengaluru,Grocery,Product 29,1,4568,5.0,Card,,3.0,No,4339.6
+BLI-10029,2025-12-27,Pune,Beauty,Product 30,7,714,5.0,UPI,5.0,3.0,No,4748.1
+BLI-10030,2025-07-30,Bengaluru,Home,Product 31,1,3412,10.0,COD,3.0,5.0,Yes,3070.8
+BLI-10031,2025-09-17,Kolkata,Electronics,Product 32,5,4786,20.0,Card,,5.0,No,19144.0
+BLI-10032,2025-02-03,Hyderabad,Electronics,Product 33,5,1680,20.0,Card,,4.0,Yes,6720.0
+BLI-10033,2025-11-13,Bengaluru,Grocery,Product 34,6,1409,5.0,Card,4.0,6.0,No,8031.3
+BLI-10034,2025-12-14,Chennai,Fashion,Product 35,4,3953,20.0,UPI,5.0,1.0,No,12649.6
+BLI-10035,2025-03-31,Kolkata,Home,Product 1,2,4902,15.0,UPI,5.0,,No,8333.4
+BLI-10036,2025-02-13,Hyderabad,Grocery,Product 2,2,162,,UPI,4.0,,No,324.0
+BLI-10037,2025-10-28,Delhi,Electronics,Product 3,7,2532,5.0,UPI,3.0,2.0,No,16837.8
+BLI-10038,2025-09-05,Bengaluru,Electronics,Product 4,3,4516,,COD,5.0,,No,13548.0
+BLI-10039,2025-11-16,Delhi,Grocery,Product 5,1,3272,10.0,Card,5.0,,No,2944.8
+BLI-10040,2025-03-27,Bengaluru,Electronics,Product 6,6,4151,,UPI,5.0,3.0,No,24906.0
+BLI-10041,2025-01-05,Hyderabad,Electronics,Product 7,7,739,20.0,UPI,5.0,6.0,No,4138.4
+BLI-10042,2025-11-29,Pune,Grocery,Product 8,1,585,10.0,COD,4.0,1.0,No,526.5
+BLI-10043,2025-08-15,Mumbai,Grocery,Product 9,5,3554,20.0,UPI,4.0,4.0,No,14216.0
+BLI-10044,2025-01-26,Kolkata,,Product 10,6,4282,,UPI,,,No,25692.0
+BLI-10045,2025-04-18,Jaipur,Fashion,Product 11,6,4449,15.0,COD,4.0,3.0,No,22689.9
+BLI-10046,2025-08-22,,Fashion,Product 12,6,2111,20.0,COD,,2.0,No,10132.8
+BLI-10047,2025-04-10,Mumbai,Grocery,Product 13,3,4261,20.0,Card,5.0,,No,10226.4
+BLI-10048,2025-01-11,Kolkata,Electronics,Product 14,1,403,,Card,,6.0,No,403.0
+BLI-10049,2025-12-11,Chennai,Electronics,Product 15,3,3280,5.0,Net Banking,4.0,1.0,No,9348.0
+BLI-10050,2025-07-11,Jaipur,Home,Product 16,3,3464,5.0,Net Banking,5.0,4.0,No,9872.4
+BLI-10051,2025-08-10,Delhi,Beauty,Product 17,2,461,5.0,Net Banking,,4.0,Yes,875.9
+BLI-10052,2025-08-05,Bengaluru,Fashion,Product 18,1,3515,5.0,COD,4.0,4.0,Yes,3339.25
+BLI-10053,2025-12-04,Delhi,Grocery,Product 19,1,4998,0.0,UPI,4.0,2.0,No,4998.0
+BLI-10054,2025-12-30,Pune,Home,Product 20,5,2999,,COD,,1.0,No,14995.0
+BLI-10055,2025-06-08,Chennai,Beauty,Product 21,2,507,0.0,,,1.0,No,1014.0
+BLI-10056,2025-03-28,Kolkata,,Product 22,1,4659,15.0,COD,5.0,3.0,No,3960.15
+BLI-10057,2025-03-03,Bengaluru,Fashion,Product 23,2,2224,5.0,Net Banking,3.0,3.0,No,4225.6
+BLI-10058,2025-06-04,Kolkata,Grocery,Product 24,7,875,,COD,4.0,,No,6125.0
+BLI-10059,2025-01-13,Mumbai,Electronics,Product 25,2,1248,20.0,Net Banking,,,No,1996.8
+BLI-10060,2025-05-08,Pune,Home,Product 26,4,4345,15.0,Net Banking,5.0,,No,14773.0
+BLI-10061,2025-03-07,Hyderabad,Electronics,Product 27,7,965,5.0,UPI,5.0,1.0,No,6417.25
+BLI-10062,2025-03-13,Kolkata,Grocery,Product 28,5,4780,0.0,UPI,,4.0,No,23900.0
+BLI-10063,2025-12-24,,Home,Product 29,3,1758,0.0,COD,3.0,4.0,No,5274.0
+BLI-10064,2025-10-07,Bengaluru,Beauty,Product 30,5,742,15.0,Net Banking,3.0,6.0,No,3153.5
+BLI-10065,2025-04-14,Jaipur,Electronics,Product 31,3,637,10.0,Net Banking,,6.0,No,1719.9
+BLI-10066,2025-08-10,Kolkata,Home,Product 32,3,3186,5.0,UPI,4.0,6.0,No,9080.1
+BLI-10067,2025-05-03,Chennai,Fashion,Product 33,7,857,15.0,Net Banking,4.0,3.0,No,5099.15
+BLI-10068,2025-12-16,Bengaluru,Electronics,Product 34,1,1843,10.0,COD,4.0,5.0,No,1658.7
+BLI-10069,2025-11-24,Mumbai,Beauty,Product 35,2,3306,0.0,UPI,5.0,5.0,No,6612.0
+BLI-10070,2025-07-19,Delhi,Home,Product 1,2,3989,0.0,Net Banking,3.0,2.0,No,7978.0
+BLI-10071,2025-10-01,Pune,Beauty,Product 2,2,622,20.0,COD,5.0,2.0,No,995.2
+BLI-10072,2025-04-11,Hyderabad,Home,Product 3,1,3385,5.0,Net Banking,,1.0,No,3215.75
+BLI-10073,2025-09-01,Pune,Fashion,Product 4,1,2474,,COD,,,No,2474.0
+BLI-10074,2025-09-25,Chennai,Beauty,Product 5,7,2989,20.0,COD,3.0,1.0,Yes,16738.4
+BLI-10075,2025-01-08,Kolkata,Grocery,Product 6,7,3067,10.0,Net Banking,3.0,3.0,No,19322.1
+BLI-10076,2025-01-13,Mumbai,Grocery,Product 7,4,4463,10.0,UPI,,5.0,No,16066.8
+BLI-10077,2025-12-14,Delhi,Beauty,Product 8,5,3405,,COD,,2.0,No,17025.0
+BLI-10078,2025-06-20,Delhi,Fashion,Product 9,5,3899,20.0,Card,,1.0,No,15596.0
+BLI-10079,2025-12-29,Pune,Grocery,Product 10,3,2899,,UPI,4.0,6.0,No,8697.0
+BLI-10080,2025-01-17,Chennai,Grocery,Product 11,6,750,5.0,UPI,5.0,1.0,No,4275.0
+BLI-10081,2025-04-22,Pune,Electronics,Product 12,2,943,0.0,UPI,5.0,3.0,Yes,1886.0
+BLI-10082,2025-04-30,Jaipur,Electronics,Product 13,7,2048,20.0,Net Banking,5.0,4.0,No,11468.8
+BLI-10083,2025-04-30,Delhi,Home,Product 14,7,240,15.0,Net Banking,3.0,5.0,No,1428.0
+BLI-10084,2025-06-04,Mumbai,,Product 15,2,2198,5.0,COD,3.0,4.0,No,4176.2
+BLI-10085,2025-09-05,Jaipur,Beauty,Product 16,3,1417,10.0,COD,5.0,1.0,No,3825.9
+BLI-10086,2025-04-07,Pune,Home,Product 17,6,666,0.0,Net Banking,3.0,1.0,No,3996.0
+BLI-10087,2025-11-06,Chennai,Beauty,Product 18,3,4158,20.0,COD,3.0,4.0,No,9979.2
+BLI-10088,2025-08-16,Mumbai,Electronics,Product 19,5,2827,20.0,UPI,4.0,1.0,No,11308.0
+BLI-10089,2025-02-26,Bengaluru,Home,Product 20,7,4773,10.0,Net Banking,5.0,2.0,No,30069.9
+BLI-10090,2025-10-17,Chennai,Beauty,Product 21,7,971,0.0,Net Banking,4.0,,No,6797.0
+BLI-10091,2025-12-04,Bengaluru,Grocery,Product 22,3,2936,20.0,Card,3.0,3.0,No,7046.4
+BLI-10092,2025-08-26,Hyderabad,Electronics,Product 23,7,3793,20.0,Net Banking,5.0,3.0,Yes,21240.8
+BLI-10093,2025-04-18,Jaipur,Beauty,Product 24,3,1219,20.0,Net Banking,4.0,3.0,No,2925.6
+BLI-10094,2025-06-28,Jaipur,Grocery,Product 25,7,166,10.0,Card,3.0,1.0,No,1045.8
+BLI-10095,2025-08-18,Chennai,Fashion,Product 26,3,4379,0.0,COD,4.0,1.0,No,13137.0
+BLI-10096,2025-12-25,Hyderabad,Fashion,Product 27,6,3692,10.0,COD,4.0,2.0,No,19936.8
+BLI-10097,2025-04-15,Hyderabad,Beauty,Product 28,7,3957,0.0,COD,3.0,3.0,No,27699.0
+BLI-10098,2025-05-23,Delhi,Fashion,Product 29,3,2478,5.0,COD,,,No,7062.3
+BLI-10099,2025-12-23,Hyderabad,Beauty,Product 30,2,3698,0.0,Card,5.0,5.0,No,7396.0
+BLI-10100,2025-08-24,Jaipur,Fashion,Product 31,1,1341,0.0,UPI,5.0,4.0,No,1341.0
+BLI-10101,2025-09-07,Kolkata,Home,Product 32,5,369,,COD,3.0,4.0,No,1845.0
+BLI-10102,2025-02-01,Delhi,Beauty,Product 33,4,687,10.0,Card,5.0,3.0,No,2473.2
+BLI-10103,2025-02-11,Hyderabad,Fashion,Product 34,3,1185,0.0,UPI,4.0,4.0,No,3555.0
+BLI-10104,2025-03-27,Chennai,Home,Product 35,1,1622,0.0,UPI,3.0,3.0,No,1622.0
+BLI-10105,2025-06-18,Mumbai,Electronics,Product 1,7,979,15.0,Net Banking,,,No,5825.05
+BLI-10106,2025-07-09,Jaipur,Home,Product 2,5,853,,COD,,3.0,No,4265.0
+BLI-10107,2025-06-23,Hyderabad,Home,Product 3,6,2846,20.0,Card,4.0,6.0,No,13660.8
+BLI-10108,2025-11-01,,Fashion,Product 4,5,2902,,COD,5.0,5.0,No,14510.0
+BLI-10109,2025-08-06,Jaipur,Fashion,Product 5,7,2356,15.0,Net Banking,4.0,3.0,No,14018.2
+BLI-10110,2025-10-08,Hyderabad,Home,Product 6,2,3542,10.0,COD,,4.0,No,6375.6
+BLI-10111,2025-06-02,Hyderabad,Electronics,Product 7,5,2217,10.0,COD,3.0,4.0,No,9976.5
+BLI-10112,2025-11-12,Chennai,Fashion,Product 8,3,964,0.0,Net Banking,4.0,4.0,Yes,2892.0
+BLI-10113,2025-08-01,Delhi,Grocery,Product 9,6,4781,10.0,COD,3.0,,No,25817.4
+BLI-10114,2025-04-25,Pune,Home,Product 10,4,3191,15.0,Card,4.0,1.0,No,10849.4
+BLI-10115,2025-12-06,Hyderabad,Fashion,Product 11,3,2694,,UPI,3.0,5.0,No,8082.0
+BLI-10116,2025-03-16,Chennai,Grocery,Product 12,3,4925,10.0,Net Banking,,,Yes,13297.5
+BLI-10117,2025-07-25,Bengaluru,Electronics,Product 13,7,2691,10.0,Card,,3.0,No,16953.3
+BLI-10118,2025-11-20,Hyderabad,Fashion,Product 14,3,3312,0.0,UPI,,6.0,No,9936.0
+BLI-10119,2025-03-16,Bengaluru,Beauty,Product 15,5,664,0.0,,5.0,,Yes,3320.0
+BLI-10120,2025-07-19,Pune,Beauty,Product 16,3,1389,,COD,,5.0,No,4167.0
+BLI-10121,2025-10-16,Jaipur,Home,Product 17,4,1926,10.0,UPI,,2.0,No,6933.6
+BLI-10122,2025-07-21,Bengaluru,Beauty,Product 18,2,3471,0.0,COD,3.0,5.0,No,6942.0
+BLI-10123,2025-11-05,Hyderabad,Grocery,Product 19,4,550,0.0,Net Banking,4.0,3.0,No,2200.0
+BLI-10124,2025-08-29,Pune,Electronics,Product 20,2,3694,20.0,Net Banking,5.0,6.0,No,5910.4
+BLI-10125,2025-01-04,Jaipur,Beauty,Product 21,6,3252,5.0,Net Banking,3.0,1.0,No,18536.4
+BLI-10126,2025-07-23,Mumbai,,Product 22,4,3501,0.0,COD,,2.0,No,14004.0
+BLI-10127,2025-04-25,Jaipur,Home,Product 23,4,1477,5.0,UPI,4.0,6.0,No,5612.6
+BLI-10128,2025-09-27,Hyderabad,Beauty,Product 24,6,749,,,3.0,3.0,No,4494.0
+BLI-10129,2025-02-02,Hyderabad,Home,Product 25,5,3214,0.0,UPI,3.0,1.0,No,16070.0
+BLI-10130,2025-05-20,Bengaluru,,Product 26,5,2469,,COD,4.0,6.0,No,12345.0
+BLI-10131,2025-08-15,Chennai,Electronics,Product 27,2,1356,,Card,4.0,5.0,No,2712.0
+BLI-10132,2025-03-23,Delhi,Fashion,Product 28,7,2889,20.0,Net Banking,4.0,,No,16178.4
+BLI-10133,2025-06-07,Mumbai,Electronics,Product 29,2,612,15.0,COD,,5.0,No,1040.4
+BLI-10134,2025-11-05,Jaipur,Electronics,Product 30,4,884,0.0,Net Banking,3.0,,No,3536.0
+BLI-10135,2025-10-11,Mumbai,Grocery,Product 31,2,1992,5.0,COD,,3.0,No,3784.8
+BLI-10136,2025-11-28,Bengaluru,Home,Product 32,3,3811,,UPI,5.0,6.0,No,11433.0
+BLI-10137,2025-12-22,Mumbai,Home,Product 33,7,4446,0.0,UPI,,4.0,No,31122.0
+BLI-10138,2025-12-29,Chennai,,Product 34,3,3596,5.0,Card,4.0,3.0,No,10248.6
+BLI-10139,2025-03-30,Mumbai,Grocery,Product 35,5,3439,,COD,,,No,17195.0
+BLI-10140,2025-11-11,Mumbai,Home,Product 1,5,2931,15.0,Net Banking,4.0,1.0,No,12456.75
+BLI-10141,2025-11-02,Delhi,Grocery,Product 2,2,2527,15.0,Card,,,No,4295.9
+BLI-10142,2025-12-21,Kolkata,Fashion,Product 3,5,1821,0.0,Net Banking,4.0,1.0,No,9105.0
+BLI-10143,2025-10-03,Pune,Home,Product 4,6,1386,,Net Banking,5.0,6.0,No,8316.0
+BLI-10144,2025-08-07,Delhi,Beauty,Product 5,7,2826,,UPI,4.0,4.0,No,19782.0
+BLI-10145,2025-10-21,Bengaluru,Grocery,Product 6,7,4948,,COD,4.0,3.0,Yes,34636.0
+BLI-10146,2025-03-20,Kolkata,Home,Product 7,2,3438,20.0,COD,5.0,,No,5500.8
+BLI-10147,2025-08-04,Hyderabad,Electronics,Product 8,4,2793,20.0,Net Banking,3.0,3.0,Yes,8937.6
+BLI-10148,2025-02-08,Jaipur,Electronics,Product 9,1,1161,15.0,Net Banking,5.0,5.0,Yes,986.85
+BLI-10149,2025-04-12,Jaipur,Beauty,Product 10,7,3601,5.0,Card,5.0,,No,23946.65
+BLI-10150,2025-10-28,Mumbai,Grocery,Product 11,7,2535,10.0,Net Banking,5.0,3.0,Yes,15970.5
+BLI-10151,2025-09-21,Mumbai,Grocery,Product 12,4,1617,0.0,,4.0,3.0,No,6468.0
+BLI-10152,2025-09-21,Mumbai,Electronics,Product 13,1,2435,20.0,UPI,5.0,1.0,No,1948.0
+BLI-10153,2025-02-23,Kolkata,,Product 14,1,1283,0.0,COD,3.0,4.0,No,1283.0
+BLI-10154,2025-07-18,Hyderabad,Fashion,Product 15,6,4662,0.0,UPI,,1.0,No,27972.0
+BLI-10155,2025-10-31,Chennai,Grocery,Product 16,5,1346,5.0,COD,3.0,4.0,No,6393.5
+BLI-10156,2025-12-14,Kolkata,Fashion,Product 17,3,2172,15.0,,4.0,2.0,No,5538.6
+BLI-10157,2025-05-11,Delhi,Grocery,Product 18,2,4517,5.0,UPI,,3.0,No,8582.3
+BLI-10158,2025-10-15,Pune,Electronics,Product 19,5,4630,10.0,,,6.0,No,20835.0
+BLI-10159,2025-01-31,Bengaluru,Beauty,Product 20,4,2430,0.0,Card,3.0,2.0,No,9720.0
+BLI-10160,2025-09-26,Hyderabad,Electronics,Product 21,6,2911,0.0,COD,5.0,1.0,No,17466.0
+BLI-10161,2025-01-12,,Electronics,Product 22,7,4916,0.0,Card,,6.0,Yes,34412.0
+BLI-10162,2025-08-17,Chennai,Fashion,Product 23,3,1548,20.0,Net Banking,,2.0,No,3715.2
+BLI-10163,2025-02-26,Pune,Grocery,Product 24,7,4647,20.0,UPI,3.0,1.0,Yes,26023.2
+BLI-10164,2025-05-21,,Grocery,Product 25,3,2201,20.0,Card,5.0,,No,5282.4
+BLI-10165,2025-12-05,Delhi,Home,Product 26,7,1615,15.0,Card,3.0,,No,9609.25
+BLI-10166,2025-02-21,Pune,Fashion,Product 27,2,4823,20.0,Card,4.0,,No,7716.8
+BLI-10167,2025-04-03,Kolkata,Grocery,Product 28,3,1400,5.0,COD,5.0,4.0,No,3990.0
+BLI-10168,2025-01-15,Jaipur,Beauty,Product 29,3,2328,,UPI,,3.0,No,6984.0
+BLI-10169,2025-11-18,Bengaluru,Electronics,Product 30,6,2745,0.0,UPI,3.0,,No,16470.0
+BLI-10170,2025-04-18,Jaipur,Grocery,Product 31,1,4503,5.0,UPI,4.0,2.0,No,4277.85
+BLI-10171,2025-07-28,Kolkata,Home,Product 32,6,4774,15.0,Net Banking,3.0,,No,24347.4
+BLI-10172,2025-12-13,Jaipur,Beauty,Product 33,1,2132,20.0,UPI,3.0,1.0,No,1705.6
+BLI-10173,2025-09-29,Pune,Home,Product 34,5,1551,15.0,Net Banking,,2.0,No,6591.75
+BLI-10174,2025-10-08,Pune,Grocery,Product 35,5,248,0.0,COD,5.0,6.0,Yes,1240.0
+BLI-10175,2025-02-13,Hyderabad,Grocery,Product 1,4,2016,10.0,Net Banking,5.0,4.0,No,7257.6
+BLI-10176,2025-11-01,Jaipur,Electronics,Product 2,3,2490,,Card,4.0,3.0,No,7470.0
+BLI-10177,2025-01-19,Hyderabad,Fashion,Product 3,7,860,20.0,UPI,4.0,2.0,No,4816.0
+BLI-10178,2025-02-23,Hyderabad,Electronics,Product 4,5,3743,10.0,Net Banking,,2.0,No,16843.5
+BLI-10179,2025-01-04,Kolkata,Home,Product 5,4,376,0.0,Net Banking,5.0,3.0,No,1504.0
+BLI-10180,2025-02-02,Delhi,Home,Product 6,3,1436,15.0,Card,,1.0,Yes,3661.8
+BLI-10181,2025-08-15,,Electronics,Product 7,7,4155,,,3.0,6.0,No,29085.0
+BLI-10182,2025-08-31,Chennai,Grocery,Product 8,1,2590,,Card,3.0,4.0,No,2590.0
+BLI-10183,2025-05-15,Hyderabad,Home,Product 9,7,4832,15.0,Net Banking,,2.0,No,28750.4
+BLI-10184,2025-06-29,Jaipur,Grocery,Product 10,1,2676,5.0,Card,4.0,1.0,No,2542.2
+BLI-10185,2025-06-09,Pune,Beauty,Product 11,4,3639,5.0,Card,4.0,4.0,No,13828.2
+BLI-10186,2025-05-25,Delhi,Home,Product 12,1,3544,5.0,COD,5.0,2.0,No,3366.8
+BLI-10187,2025-06-26,Mumbai,Beauty,Product 13,1,2155,0.0,Card,5.0,1.0,No,2155.0
+BLI-10188,2025-02-27,Chennai,Grocery,Product 14,1,1034,15.0,Net Banking,,4.0,No,878.9
+BLI-10189,2025-01-14,,Fashion,Product 15,4,919,10.0,Net Banking,,5.0,No,3308.4
+BLI-10190,2025-04-10,,Home,Product 16,6,3954,20.0,Net Banking,,,No,18979.2
+BLI-10191,2025-01-22,Pune,Home,Product 17,1,3591,0.0,UPI,3.0,4.0,No,3591.0
+BLI-10192,2025-10-08,Jaipur,,Product 18,2,653,,UPI,,5.0,No,1306.0
+BLI-10193,2025-01-28,Jaipur,Beauty,Product 19,6,4234,15.0,UPI,,,No,21593.4
+BLI-10194,2025-07-20,Chennai,Electronics,Product 20,5,2018,,Card,5.0,,No,10090.0
+BLI-10195,2025-10-03,Hyderabad,Electronics,Product 21,1,1014,,Card,5.0,3.0,No,1014.0
+BLI-10196,2025-03-12,Mumbai,,Product 22,7,618,,Card,,2.0,No,4326.0
+BLI-10197,2025-12-02,Pune,Home,Product 23,6,4585,0.0,,,4.0,No,27510.0
+BLI-10198,2025-06-20,Bengaluru,Grocery,Product 24,2,2539,0.0,UPI,,3.0,No,5078.0
+BLI-10199,2025-01-27,Chennai,Electronics,Product 25,4,3665,5.0,UPI,,3.0,No,13927.0
+BLI-10200,2025-07-27,Delhi,Beauty,Product 26,6,4666,15.0,Card,3.0,4.0,No,23796.6
+BLI-10201,2025-06-11,Kolkata,Fashion,Product 27,7,3753,20.0,Card,3.0,5.0,No,21016.8
+BLI-10202,2025-10-06,Kolkata,Grocery,Product 28,5,2979,10.0,Card,4.0,5.0,Yes,13405.5
+BLI-10203,2025-08-22,Chennai,Home,Product 29,2,2564,15.0,Card,5.0,4.0,No,4358.8
+BLI-10204,2025-03-26,Chennai,Fashion,Product 30,5,4586,15.0,COD,,4.0,No,19490.5
+BLI-10205,2025-06-30,Jaipur,Grocery,Product 31,4,2253,5.0,COD,3.0,5.0,No,8561.4
+BLI-10206,2025-05-30,Jaipur,Grocery,Product 32,6,3724,20.0,Net Banking,5.0,3.0,Yes,17875.2
+BLI-10207,2025-08-23,Jaipur,Beauty,Product 33,6,1436,15.0,Net Banking,5.0,,No,7323.6
+BLI-10208,2025-08-30,Chennai,Beauty,Product 34,7,391,,Card,,5.0,No,2737.0
+BLI-10209,2025-08-29,Jaipur,Home,Product 35,1,4191,10.0,UPI,3.0,5.0,No,3771.9
+BLI-10210,2025-05-14,Chennai,Grocery,Product 1,1,2472,0.0,COD,5.0,5.0,No,2472.0
+BLI-10211,2025-03-16,Jaipur,Home,Product 2,5,2967,20.0,COD,,6.0,No,11868.0
+BLI-10212,2025-05-09,Bengaluru,Beauty,Product 3,6,3522,20.0,Card,5.0,6.0,No,16905.6
+BLI-10213,2025-06-07,Hyderabad,Beauty,Product 4,6,3338,5.0,Card,4.0,,No,19026.6
+BLI-10214,2025-04-22,Kolkata,Beauty,Product 5,4,1438,,UPI,3.0,1.0,No,5752.0
+BLI-10215,2025-03-16,Bengaluru,Home,Product 6,7,2469,15.0,COD,4.0,5.0,Yes,14690.55
+BLI-10216,2025-01-22,Delhi,Electronics,Product 7,3,2856,5.0,Net Banking,,1.0,Yes,8139.6
+BLI-10217,2025-11-19,Pune,Fashion,Product 8,1,2506,15.0,Card,3.0,6.0,No,2130.1
+BLI-10218,2025-03-11,Jaipur,Fashion,Product 9,6,700,20.0,COD,5.0,1.0,No,3360.0
+BLI-10219,2025-02-18,Pune,Electronics,Product 10,4,2948,20.0,,3.0,3.0,No,9433.6
+BLI-10220,2025-07-23,Chennai,Fashion,Product 11,4,1957,20.0,Net Banking,5.0,4.0,Yes,6262.4
+BLI-10221,2025-01-17,Mumbai,Grocery,Product 12,6,1532,0.0,COD,4.0,4.0,No,9192.0
+BLI-10222,2025-09-28,Kolkata,Home,Product 13,3,4012,20.0,UPI,,,No,9628.8
+BLI-10223,2025-12-02,,Grocery,Product 14,2,221,5.0,Card,4.0,1.0,Yes,419.9
+BLI-10224,2025-11-27,Delhi,Fashion,Product 15,6,2505,5.0,Card,4.0,5.0,No,14278.5
+BLI-10225,2025-04-17,Bengaluru,Beauty,Product 16,5,4903,,Net Banking,3.0,5.0,No,24515.0
+BLI-10226,2025-02-25,Bengaluru,Fashion,Product 17,6,4688,,Card,5.0,,No,28128.0
+BLI-10227,2025-10-13,Delhi,Grocery,Product 18,2,3128,20.0,UPI,4.0,1.0,No,5004.8
+BLI-10228,2025-03-21,Chennai,Beauty,Product 19,1,383,5.0,Card,4.0,2.0,No,363.85
+BLI-10229,2025-01-21,Jaipur,Home,Product 20,4,2125,5.0,Card,3.0,,No,8075.0
+BLI-10230,2025-01-24,Mumbai,Grocery,Product 21,4,172,15.0,Card,3.0,5.0,No,584.8
+BLI-10231,2025-06-30,Pune,Grocery,Product 22,6,4121,20.0,UPI,3.0,3.0,No,19780.8
+BLI-10232,2025-10-21,Chennai,Home,Product 23,4,300,20.0,Card,,3.0,No,960.0
+BLI-10233,2025-02-19,Chennai,Fashion,Product 24,5,1634,20.0,Card,5.0,,No,6536.0
+BLI-10234,2025-08-30,Delhi,Home,Product 25,1,339,0.0,Net Banking,,1.0,No,339.0
+BLI-10235,2025-03-18,Delhi,Fashion,Product 26,4,4421,15.0,UPI,4.0,4.0,No,15031.4
+BLI-10236,2025-01-17,Bengaluru,Beauty,Product 27,6,4454,20.0,,5.0,2.0,No,21379.2
+BLI-10237,2025-10-21,Jaipur,Electronics,Product 28,5,1781,0.0,UPI,,1.0,No,8905.0
+BLI-10238,2025-06-17,Kolkata,Electronics,Product 29,2,2338,0.0,COD,4.0,1.0,Yes,4676.0
+BLI-10239,2025-01-02,Chennai,,Product 30,7,1068,20.0,COD,4.0,6.0,No,5980.8
+BLI-10240,2025-03-26,Kolkata,Home,Product 31,7,3890,5.0,Card,4.0,,No,25868.5
+BLI-10241,2025-04-23,,Electronics,Product 32,5,2649,15.0,Card,3.0,3.0,No,11258.25
+BLI-10242,2025-06-28,,Beauty,Product 33,1,2196,10.0,Net Banking,5.0,1.0,No,1976.4
+BLI-10243,2025-01-25,Hyderabad,Home,Product 34,4,3016,0.0,Net Banking,5.0,1.0,No,12064.0
+BLI-10244,2025-08-11,Hyderabad,Grocery,Product 35,1,4038,10.0,UPI,3.0,3.0,No,3634.2
+BLI-10245,2025-09-14,Delhi,,Product 1,2,3747,0.0,UPI,3.0,3.0,No,7494.0
+BLI-10246,2025-04-07,Chennai,Beauty,Product 2,2,4565,0.0,Card,4.0,1.0,No,9130.0
+BLI-10247,2025-05-12,Bengaluru,,Product 3,1,170,5.0,Card,3.0,4.0,No,161.5
+BLI-10248,2025-09-10,Hyderabad,Grocery,Product 4,3,4538,,UPI,4.0,3.0,No,13614.0
+BLI-10249,2025-08-16,Delhi,Beauty,Product 5,1,1870,,COD,,,No,1870.0
